@@ -30,16 +30,6 @@ Tesseract OCR – Text recognition from images.
 
 Pandas & OpenPyXL – Data processing and Excel automation.
 
-📂 Folder Structure
-
-📦 rpa-practice-repo
-├── 📂 scripts            # RPA scripts categorized by use case
-├── 📂 locators           # Element locators for Selenium automation
-├── 📂 configs            # Configuration files & credentials (excluded from Git)
-├── 📂 logs               # Execution logs & debugging info
-├── 📂 docs               # Documentation & research notes
-├── README.md             # Repository overview
-└── .gitignore            # Ignore sensitive files (e.g., credentials, logs)
 
 📝 Planned Automation Scenarios
 
