@@ -1,0 +1,5 @@
+# Ignore unnecessary files
+logs/
+*.log
+*.env
+__pycache__/

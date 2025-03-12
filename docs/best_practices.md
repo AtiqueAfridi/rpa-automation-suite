@@ -1,0 +1,1 @@
+# Coding & automation guidelines

@@ -1,0 +1,1 @@
+# OCR automation tests
